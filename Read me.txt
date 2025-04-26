@@ -1,0 +1,54 @@
+	
+	Hello Everyone!
+	We are developing a Student's Information Management System using C & C++ programming languages.
+	Some basic operations that we can do in this system are:
+		->Add new student's information
+		->Search specific student's information by ID no.
+		->View all student's information
+		->Edit/Update any student's information
+		->Delete a single student's information by ID no.
+		->Delete all Student's information.
+		->You can also restore deleted student's information from Recycle Bin
+
+	We are implementing Student's information in student type structured data and storing it by Linked List.
+	Storing data
+		->Student ID
+		->Name
+		->Phone
+		->E-mail
+		->Enrolled Courses
+			->Course Code
+			->Course Name
+			Storing course information in map(C++ STL Property) where Course Code is the key and course name is the value
+	
+	
+	/****************** Team Information ********************/
+	
+	Name: Md.Sanaullah Shovon
+	Student ID: 0242310005101082
+	Phone No.: 01303091174
+	Mail ID: shovon23105101082@diu.edu.bd
+	
+	Name: Abdur Rahman
+	Student ID: 0242310005101413
+	Phone No.: 01306661998
+	Mail ID: rahman23105101413@diu.edu.bd
+    
+	Name: Md.Tanvir Hasan
+	Student ID: 0242310005101461
+	Phone No.: 01724757410
+	Mail ID: hasan23105101461@diu.edu.bd
+	
+	Name: Ummay Jubaiya Moushi
+	Student ID: 0242310005101887
+	Phone No.: 01887173670
+	Mail ID: moushi2305101887@diu.edu.bd
+    
+	Name: Kazi Amir Hamza
+	Student ID: 0242310005101895
+	Phone No.: 01990799148
+	Mail ID: hamza2305101895@diu.edu.bd
+	
+	
+	
+	Project report: https://docs.google.com/document/d/1dHw3W9oL1lNHKF3m1NVh8duLBMsA3FGz/edit?usp=sharing&ouid=106160128647582981926&rtpof=true&sd=true

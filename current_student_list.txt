@@ -1,0 +1,53 @@
+	Viewing All the Student Information: 
+		        Student-01
+	=============================================
+	Student ID: 1895
+	Name: Kazi Amir
+	Phone: 01990799148
+	E-mail: hamza@diu.edu
+	Enrolled courses: 1
+		Course-02: 
+		    Course Name: Data Structure
+		    Course Code: DS-124
+	=============================================
+		        Student-02
+	=============================================
+	Student ID: 1413
+	Name: Abdur Rahman
+	Phone: 01437654893
+	E-mail: soikot22@diu.edu
+	Enrolled courses: 1
+		Course-02: 
+		    Course Name: Mathematics-II
+		    Course Code: MAT-102
+	=============================================
+		        Student-03
+	=============================================
+	Student ID: 1082
+	Name: Shovon Sanaullah
+	Phone: 01534744657
+	E-mail: shovonbhai@diu.edu
+	Enrolled courses: 1
+		Course-02: 
+		    Course Name: English-II
+		    Course Code: ENG-102
+	=============================================
+		        Student-04
+	=============================================
+	Student ID: 1461
+	Name: Tanvir King
+	Phone: 01997546839
+	E-mail: tanvir4n@diu.edu
+	Enrolled courses: 0
+	=============================================
+		        Student-05
+	=============================================
+	Student ID: 1887
+	Name: UJ Moushi
+	Phone: 01234567894
+	E-mail: ujmoushi@diu.edu
+	Enrolled courses: 1
+		Course-02: 
+		    Course Name: Mathematics-II
+		    Course Code: MAT-102
+	=============================================
